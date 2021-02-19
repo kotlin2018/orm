@@ -7,7 +7,6 @@
 package g
 
 import (
-	"github.com/gogf/gf/database/gdb"
 	"github.com/gogf/gf/database/gredis"
 	"github.com/gogf/gf/frame/gins"
 	"github.com/gogf/gf/i18n/gi18n"
@@ -18,6 +17,7 @@ import (
 	"github.com/gogf/gf/os/glog"
 	"github.com/gogf/gf/os/gres"
 	"github.com/gogf/gf/os/gview"
+	"github.com/kotlin2018/orm"
 )
 
 // Client is a convenience function, that creates and returns a new HTTP client.
