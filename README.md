@@ -1,6 +1,8 @@
 # 核心结构简介
 与GoFrame/orm兼容，主要是修改了gf/database/gdb目录
 
+[GoFrame地址](https://github.com/gogf/gf.git)
+
 [github地址](https://github.com/kotlin2018/orm.git)
   
 * `DB interface`是直接操作数据库的接口，里面定义了一系列操作数据库的方法。
